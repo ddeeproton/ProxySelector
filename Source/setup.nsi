@@ -85,6 +85,7 @@ Section "" ;No components page, name is not important
   
   ; Put file there
   File "ProxySelector.exe"
+  File "FICHIERPROXY.txt"
   File "ProxySelector(source).zip"
   
   
